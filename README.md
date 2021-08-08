@@ -7,16 +7,15 @@
 
 南京邮电大学信息安全专业历年考试资料
 
-
 受 [`浙江大学课程攻略共享计划`](https://github.com/QSCTech/zju-icicles) 和 [`清华大学计算机系课程攻略`](https://github.com/Trinkle23897/THU-CST-Cracker) 等项目启发，我们决定将**南京邮电大学**CS专业课程的历年资料整理出来，以利后人。上述两项目对本资料集有重要影响，在这里向他们表示感谢。
 
 ## 资料列表
 
 ### 专业基础必修课
 
-+ [【B0302011C】信息安全导论](/信息安全导论) ✅ (Last updated: null)
-+ [【B0302301S】信息安全数学基础](/信息安全数学基础) ✅ (Last updated: null)
-+ [【B0301582C】计算机组成与结构](/计算机组成与结构【B0301582C】) ✅ (Last updated: null)
++ [【B0302011C】信息安全导论](/信息安全导论) 🈚 (Last updated: null)
++ [【B0302301S】信息安全数学基础](/信息安全数学基础) 🈚 (Last updated: null)
++ [【B0301582C】计算机组成与结构](/计算机组成与结构【B0301582C】) 🈚 (Last updated: null)
 
 <!--
 ！！！软工也有这门计组，但是是限选课
@@ -24,31 +23,30 @@
 
 ### 专业基础限选课
 
-+ [【B0302401S】安全通论](/安全通论) ✅ (Last updated: null)
-+ [【B0301621C】逆向分析技术](/逆向分析技术) ✅ (Last updated: null)
-+ [【B0302151C】网络编程](/网络编程) ✅ (Last updated: null)
-+ [【B0302201C】网络与信息安全法规](/网络与信息安全法规) ✅ (Last updated: null)
++ [【B0302401S】安全通论](/安全通论) 🈚 (Last updated: null)
++ [【B0301621C】逆向分析技术](/逆向分析技术) 🈚 (Last updated: null)
++ [【B0302151C】网络编程](/网络编程) 🈚 (Last updated: null)
++ [【B0302201C】网络与信息安全法规](/网络与信息安全法规) 🈚 (Last updated: null)
 
 ### 专业必修课程
 
-+ [【B0302062S】密码学](/密码学) ✅ (Last updated: null)
-+ [【B0302071S】操作系统结构分析](/操作系统结构分析) ✅ (Last updated: null)
-+ [【B0302085S】网络信息安全](/网络信息安全) ✅ (Last updated: null)
++ [【B0302062S】密码学](/密码学) 🈚 (Last updated: null)
++ [【B0302071S】操作系统结构分析](/操作系统结构分析) 🈚 (Last updated: null)
++ [【B0302085S】网络信息安全](/网络信息安全) 🈚 (Last updated: null)
 
 ### 专业限选课
 
-+ [【B0303042C】嵌入式智能终端开发](/嵌入式智能终端开发) ✅ (Last updated: null)
-+ [【B0301611C】软件漏洞分析与防范](/软件漏洞分析与防范) ✅ (Last updated: null)
-+ [【B0302501S】恶意代码分析与防治](/恶意代码分析与防治) ✅ (Last updated: null)
-+ [【B0302252C】电子数据取证技术](/电子数据取证技术) ✅ (Last updated: null)
-+ [【B0302131C】网络攻击与防范](/网络攻击与防范) ✅ (Last updated: null)
-+ [【B0302601C】Web安全](/Web安全) ✅ (Last updated: null)
-+ [【B0302141C】无线通信安全](/无线通信安全) ✅ (Last updated: null)
++ [【B0303042C】嵌入式智能终端开发](/嵌入式智能终端开发) 🈚 (Last updated: null)
++ [【B0301611C】软件漏洞分析与防范](/软件漏洞分析与防范) 🈚 (Last updated: null)
++ [【B0302501S】恶意代码分析与防治](/恶意代码分析与防治) 🈚 (Last updated: null)
++ [【B0302252C】电子数据取证技术](/电子数据取证技术) 🈚 (Last updated: null)
++ [【B0302131C】网络攻击与防范](/网络攻击与防范) 🈚 (Last updated: null)
++ [【B0302601C】Web安全](/Web安全) 🈚 (Last updated: null)
++ [【B0302141C】无线通信安全](/无线通信安全) 🈚 (Last updated: null)
 
 ### 其它
 
 + [CTF](/CTF) ✅ (Last updated: 2019-03-30)
-
 
 ## 说明
 
