@@ -46,7 +46,7 @@
 
 ### 其它
 
-+ [CTF](/CTF) ✅ (Last updated: 2019-03-30)
++ [CTF](/CTF) ✅ (Last updated: 2021-08-13)
 
 ## 说明
 
