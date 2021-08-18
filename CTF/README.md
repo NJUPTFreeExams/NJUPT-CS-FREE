@@ -14,7 +14,7 @@
 
 ## 其它说明
 
-- 欢迎使用内网访问：[南京邮电大学小绿草信息安全科创实验室（X1cT34m CTF校队）](https://ctf.njupt.edu.cn/)
+- 欢迎访问：[南京邮电大学小绿草信息安全科创实验室（X1cT34m CTF校队）](https://ctf.njupt.edu.cn/)
 
 ## 声明
 
