@@ -47,10 +47,10 @@
 - 【B0301411S】现代通信技术
 - 【B0302161C】嵌入式系统与开发
 - 【B0303011C】物联网技术
-- 【B0301521C】计算机通信与网络实验 🈚 (Last updated: null)
+- 【B0301521C】计算机通信与网络实验 🈚
 - 【B0301230S】Web技术（双语）
 - 【B0301312C】计算机图形学（全英文）
-- 【B03002K3C】云计算 🈚 (Last updated: null)
+- 【B03002K3C】云计算 🈚
 - 【B03002K2C】移动应用开发技术
 - 【B03016K1C】嵌入式手机终端开发技术
 - 【B03002K4C】职业开发训练
@@ -65,13 +65,13 @@
 
 欢迎！Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
-### 📌如果你想 Pull Request
+### 📌如果你想提交新的资料
 
-请务必阅读：[`Pull Request 攻略`](https://njuptfreeexams.github.io/UploadGuide.html)
+请**务必**阅读：[`Pull Request 攻略`](https://njuptfreeexams.github.io/UploadGuide.html)
 
-### 📌如果你想给我们提 issue
+### 📌如果你有疑惑、或任何建议
 
-请务必阅读：[`Issue 指南`](https://njuptfreeexams.github.io/IssueGuide.html)
+你可以参考：[`Issue 指南`](https://njuptfreeexams.github.io/IssueGuide.html)
 
 ### 请注意以下课程的课程编号
 
@@ -89,16 +89,16 @@ all.
 
 #### 专业基础必修课程
 
-+ 【B0302021S】离散数学
-+ 【B0600061S】概率论与数理统计
-+ 【B0400032S】数字电路与逻辑设计 B
-+ 【B0200034S】信号与系统 C
-+ 【B1100091S】电工电子基础实验 B
+- 【B0302021S】离散数学
+- 【B0600061S】概率论与数理统计
+- 【B0400032S】数字电路与逻辑设计 B
+- 【B0200034S】信号与系统 C
+- 【B1100091S】电工电子基础实验 B
 
 #### 专业基础限选课程
 
-+ 【B0200016S】通信原理 C
+- 【B0200016S】通信原理 C
 
 #### 专业限选课程
 
-+ 【B0400111S】模拟电子线路 C
+- 【B0400111S】模拟电子线路 C

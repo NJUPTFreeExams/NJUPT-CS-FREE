@@ -32,13 +32,14 @@
 
 欢迎！Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
-### 📌如果你想 Pull Request
 
-请务必阅读：[`Pull Request 攻略`](https://njuptfreeexams.github.io/UploadGuide.html)
+### 📌如果你想提交新的资料
 
-### 📌如果你想给我们提 issue
+请**务必**阅读：[`Pull Request 攻略`](https://njuptfreeexams.github.io/UploadGuide.html)
 
-请务必阅读：[`Issue 指南`](https://njuptfreeexams.github.io/IssueGuide.html)
+### 📌如果你有疑惑、或任何建议
+
+你可以参考：[`Issue 指南`](https://njuptfreeexams.github.io/IssueGuide.html)
 
 ### 请注意以下课程的课程编号
 
