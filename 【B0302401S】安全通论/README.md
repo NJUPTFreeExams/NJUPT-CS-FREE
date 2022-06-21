@@ -6,6 +6,8 @@
 
 2020-2021期末试卷B
 
+2021-2022期末试卷A
+
 ## 其它说明
 
 难度较大，涉及数学基础较多，例如概率论，信息论，博弈论，控制论等。
@@ -22,6 +24,8 @@
 
 | 贡献者 | 时间 | 来源 | 贡献内容 |
 |:-----:|:----:|:----:|:-------:|
-| karsacui | 2021/9/10 | USB拷贝 | 课程幻灯片 |
-| karsacui | 2021/9/8 | 线上补考 | 补考试卷 |
+| [karsacui](https://github.com/karsacui) | 2021/9/10 | USB拷贝 | 课程幻灯片 |
+| [karsacui](https://github.com/karsacui) | 2021/9/8 | 线上补考 | 补考试卷 |
+| [karsacui](https://github.com/karsacui) | 2022/6/9 | 线上期末 | 期末试卷 |
+| [karsacui](https://github.com/karsacui) | 2022/6/9 | 课程ppt整合修改 | ppt整合版（红字改为黑底白字高亮） |
 
